@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\bin\Debug\soru3idealkilohesabı.exe.config
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\obj\Debug\soru3idealkilohesabı.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\obj\Debug\soru3idealkilohesabı.Form1.resources
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\obj\Debug\soru3idealkilohesabı.Properties.Resources.resources
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\obj\Debug\soru3idealkilohesabı.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\bin\Debug\soru3idealkilohesabı.exe
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\bin\Debug\soru3idealkilohesabı.pdb
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\obj\Debug\soru3idealkilohesabı.exe
+C:\Users\hp\Desktop\soru3idealkilohesabı\soru3idealkilohesabı\obj\Debug\soru3idealkilohesabı.pdb
